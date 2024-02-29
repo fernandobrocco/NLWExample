@@ -2,10 +2,13 @@
 
 Aplicação desenvolvida usando **Python 3.11.5** durante o evento NLW ministrado pela Rocketseat.
 
->Frameworks utilizados
+Frameworks utilizados
 >Cerberus 1.3.5
+
 >Flask 3.0.2
+
 >Python-barcode 0.15.1
+
 >Pytest 8.0.0
 
 Como utilizar?
